@@ -110,15 +110,6 @@ These can be viewed from the **"display statistics"** menu.
 
 ---
 
-## 🛠 Future Improvements (Optional Ideas)
-
-- Password encryption
-- Task filtering by status or due date
-- Export tasks as CSV
-- GUI interface using Tkinter or PyQt
-
----
-
 ## 📄 License
 
 This project is open-source and available under the MIT License.
