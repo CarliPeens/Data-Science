@@ -90,14 +90,6 @@ Shelf Track is a command-line application written in Python that allows a bookst
 
 ---
 
-## 🧑‍💻 Author
-
-Capstone Project – Databases  
-HyperionDev Bootcamp  
-2025
-
----
-
 ## 📝 License
 
 This project is free to use for educational and personal learning purposes.
