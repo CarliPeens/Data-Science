@@ -82,12 +82,6 @@ This project performs a comprehensive Exploratory Data Analysis (EDA) on the fam
 
 ---
 
-## 📬 Contact
-
-For feedback, suggestions, or collaboration, feel free to reach out at [your-email@example.com].
-
----
-
 ## 📝 License
 
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
