@@ -80,16 +80,6 @@ To build a **Multiple Linear Regression** model that:
 
 ---
 
-## 🔧 Future Improvements
-
-- Add interaction terms: `Gr_Liv_Area * Garage_Area`
-- Use additional features from the full dataset (81 variables originally)
-- Try regularized models (Ridge, Lasso)
-- Address skewness via log-transformations
-- Use cross-validation for better generalization
-
----
-
 ## ▶️ How to Run
 
 ```bash
