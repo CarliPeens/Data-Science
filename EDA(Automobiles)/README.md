@@ -87,8 +87,7 @@ The analysis revealed that:
 
 ## 👤 Author
 
-**Carli Peens**  
-HyperionDev Level 3 Bootcamp Project  
+**Carli Peens**   
 July 2025
 
 ---
