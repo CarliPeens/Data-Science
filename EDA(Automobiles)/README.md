@@ -85,13 +85,6 @@ The analysis revealed that:
 
 ---
 
-## 👤 Author
-
-**Carli Peens**   
-July 2025
-
----
-
 ## 📄 License
 
 This project is for educational purposes. Feel free to use or modify it with credit.
