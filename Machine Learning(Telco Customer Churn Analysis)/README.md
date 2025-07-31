@@ -118,13 +118,6 @@ The dataset comes from the IBM Sample Data Sets and includes:
 - `telco_churn_analysis.ipynb` – Jupyter Notebook with full code
 - `Telco_Churn_Analysis_README.md` – Project documentation (this file)
 
----
-
-## 👨‍💻 Author
-
-**Capstone Project (2025)**  
-Developed as part of a Data Science Bootcamp  
-Mentored by HyperionDev
 
 ---
 
