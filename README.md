@@ -80,7 +80,7 @@ This repository is intended for **educational and portfolio purposes**. Feel fre
 
 ## 🔗 Connect with Me
 - GitHub: [CarliPeens](https://github.com/CarliPeens)
-- LinkedIn: [Your LinkedIn URL Here]
+- LinkedIn: [www.linkedin.com/in/carli-peens]
 
 ---
 
