@@ -10,6 +10,7 @@ Welcome to my Data Science Portfolio! This repository showcases a diverse collec
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | **🚗 Automobile Dataset EDA** | Analyzed car specs for pricing, fuel efficiency, and manufacturer trends. | Python, Pandas, Matplotlib, Seaborn |
+| **💮 Iris Dataset EDA** | Explores the Iris dataset to examine feature distributions, relationships, and species-specific patterns. | Python, Pandas, Matplotlib, Seaborn |
 | **🚢 Titanic Dataset EDA** | Survival analysis of Titanic passengers based on demographics and travel details. | Python, Pandas, Seaborn, Scikit-learn |
 | **🏡 Ames Housing Price Prediction** | Built a linear regression model to predict house prices using key features. | Python, Pandas, Scikit-learn, Matplotlib |
 | **📉 Telco Customer Churn Prediction** | Modeled churn behavior using Logistic Regression and Random Forest Classifier. | Python, Pandas, Scikit-learn, Seaborn |
